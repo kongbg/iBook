@@ -23,6 +23,5 @@ export default {
 // dev7
 
 // revet1
-// revet2
 // revet3
 </script>
